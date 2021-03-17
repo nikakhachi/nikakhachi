@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Nick
+## Hi there 👋, I'm Nika
 
 - 🔭 I’m currently working on Chat Application with Authentication
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nika-khachiashvili/)
