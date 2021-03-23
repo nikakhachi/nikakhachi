@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nika
 
-- 🔭 I’m currently working on Chat Application with Authentication
+- 🔭 I’m currently building E-Commerce Website in MERN stack
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nika-khachiashvili/)
 - :email: o.sicknick@gmail.com
 
