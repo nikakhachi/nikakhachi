@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nika
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nika-khachiashvili/)
-- :email: o.sicknick@gmail.com
+- :email: n.khachiashvili1@gmail.com
 
 ## 👥 Visitors: ![Visitor Count](https://profile-counter.glitch.me/xnick7x/count.svg)
 
