@@ -12,7 +12,7 @@
 --- | --- 
 ![nikakhachi's github stats](https://github-readme-stats.vercel.app/api?username=nikakhachi&show_icons=true&theme=radical&include_all_commits=true) | ![nikakhachi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nikakhachi&theme=radical&layout=compact)
 
-![Nika's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nikakhachi&hide_border=true&theme=redical)
+<!-- ![Nika's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nikakhachi&hide_border=true&theme=redical) -->
 
 <!-- Skills and Tools -->
 Skills and Tools | .
