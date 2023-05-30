@@ -30,5 +30,3 @@ From building centralized apps to exploring the wild and exciting world of block
 <h3 align="left">My GitHub Statistics</h3>
 
 ![nikakhachi's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nikakhachi&hide=HTML&`&langs_count=4&layout=compact)
-
-![nikakhachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikakhachi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
