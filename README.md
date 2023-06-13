@@ -2,21 +2,17 @@
 
 From building centralized apps to exploring the wild and exciting world of blockchain and new technologies, I've made the leap into Web3. Whether its creating decentralized apps or exploring the latest DeFi protocols, I'm always eager to learn and build.
 
-I also have a YouTube channel where I talk about coding, career and personal growth
-
-<!-- <a href="https://www.linkedin.com/in/nika-khachiashvili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan-carlton" height="30" width="40" /></a> -->
+I also have a YouTube channel where I talk about coding, career and personal growth -  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dan-carlton" height="20" width="20" /> Nika Khachi](https://youtube.com/@nikakhachi)
 
 - 🌍 I'm based in **Tbilisi, Georgia**
 
-<!-- - 🧠 I'm currently learning the **DeFi space**-->
-
 - 🔭 I’m currently building **Web3** projects
+
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan-carlton" height="20" width="15" /> You can check out my **[LinkedIn](https://www.linkedin.com/in/nika-khachiashvili)**
 
 - 👨‍💻 You can view my portfolio at **[nikakhachi.com](https://nikakhachi.com)**
 
-- ▶️ You can watch or listen to me on **[YouTube](https://youtube.com/@nikakhachi)**
-
-- 📫 You can contact me on **[LinkedIn](https://www.linkedin.com/in/nika-khachiashvili)** or at **n.khachiashvili1@gmail.com**
+- 📫 You can contact me at **n.khachiashvili1@gmail.com**
 
 <h3 align="left">Skills</h3>    
 
