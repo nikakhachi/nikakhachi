@@ -1,12 +1,12 @@
 <h1>Hi 👋 My name is Nika</h1>
 
-From building centralized apps to exploring the wild and exciting world of blockchain and new technologies, I've made the leap into Web3. Whether its creating decentralized apps or exploring the latest DeFi protocols, I'm always eager to learn and build.
+I'm a Solidity Developer with a strong background in Full Stack development.
 
 I also have a YouTube channel where I talk about coding, career and personal growth -  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dan-carlton" height="20" width="20" /> Nika Khachi](https://youtube.com/@nikakhachi)
 
 - 🌍 I'm based in **Tbilisi, Georgia**
 
-- 🔭 I’m currently building **Web3** projects
+<!-- - 🔭 I’m currently building **Web3** projects -->
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dan-carlton" height="20" width="15" /> You can check out my **[LinkedIn](https://www.linkedin.com/in/nika-khachiashvili)**
 
