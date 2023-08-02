@@ -17,11 +17,11 @@ I also have a YouTube channel where I talk about coding, career and personal gro
 <h3 align="left">Skills</h3>    
 
 <div>
+<img src="https://skillicons.dev/icons?i=solidity" />
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
