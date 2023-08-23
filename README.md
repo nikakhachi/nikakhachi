@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Nika</h1>
 
-I'm a Solidity Developer with a strong background in Full Stack development.
+Web3 Developer
 
 I also have a YouTube channel where I talk about coding, career and personal growth -  [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dan-carlton" height="20" width="20" /> Nika Khachi](https://youtube.com/@nikakhachi)
 
