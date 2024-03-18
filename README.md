@@ -14,20 +14,20 @@
 
 <!-- - 📫 You can contact me at **n.khachiashvili1@gmail.com**  -->
 
-<h3 align="left">Skills</h3>    
+<!-- <h3 align="left">Skills</h3>  -->
 
-<div>
-<img src="https://skillicons.dev/icons?i=solidity" />
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=redis" />
-</div>
+<!-- <div>  -->
+<!-- <img src="https://skillicons.dev/icons?i=solidity" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=ts" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=js" />  -->
+  <!-- <img src="https://skillicons.dev/icons?i=nodejs" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=react" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=aws" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=postgres" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=mongodb" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=mysql" />  -->
+<!-- <img src="https://skillicons.dev/icons?i=redis" />  -->
+<!-- </div>  -->
 
 <h3 align="left">My GitHub Statistics</h3>
 
