@@ -29,6 +29,4 @@
 <!-- <img src="https://skillicons.dev/icons?i=redis" />  -->
 <!-- </div>  -->
 
-<h3 align="left">My GitHub Statistics</h3>
-
 ![nikakhachi's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nikakhachi&hide=HTML&`&langs_count=4&layout=compact)
