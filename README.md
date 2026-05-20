@@ -1,6 +1,6 @@
 **Full-stack engineer** with 6 years building production web applications, onchain systems, and automations.
 
-**Stack:** TypeScript · React / Next.js · Node.js · Solidity
+**Stack:** TypeScript · Solidity · React / Next.js · Node.js
 
 #### A few things I've built:
 - **Onchain Warden** — Automated tracking of on-chain events across EVM chains with real-time multi-channel notifications ([link](https://x.com/OnchainWardenHQ))
