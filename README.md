@@ -1,10 +1,10 @@
 6 years of building software
 
-#### What I've shipped:
+#### Highlights of I've shipped:
 - Onchain Warden - Automated tracking of on-chain events across EVM chains, with multi-channel real-time notifications ([link](https://x.com/OnchainWardenHQ))
 - Reservoir Points System - Gamified loyalty mechanism to reward user engagement on Reservoir Protocol ([link](https://app.reservoir.xyz/leaderboard))
 - Production smart contracts at [Reservoir](https://github.com/reservoir-protocol), [Fortunafi](https://github.com/fortunafi), and [Bima Labs](https://github.com/Bima-Labs)
-- Smart contracts for various onchain strategy automation, including stablecoin looping
+- Smart contracts for onchain yield farming strategy automation
 - A real-time traffic monitoring app for the Tbilisi city hall, by aggregation of the live city data.
 
 
